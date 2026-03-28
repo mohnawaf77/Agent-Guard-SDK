@@ -5,7 +5,7 @@ Python SDK for AgentGuard — secure API calls for AI agents without handling re
 ## Installation
 
 ```bash
-pip install agentguard
+pip install agentguard-client
 ```
 
 ## Quick Start
